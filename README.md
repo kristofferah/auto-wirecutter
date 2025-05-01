@@ -5,7 +5,8 @@ This repository contains the code and hardware documentation for a custom-built 
 
 ✅ Automatically measures wire length
 ✂️ Cuts wire to user-defined length
-⚙️ Powered by microcontroller-based control (e.g. Arduino/ESP32)
+⚙️ Powered by microcontroller-based control (e.g. Arduino/ESP32) or RaspberryPi
 🛠️ Includes hardware schematics, firmware, and optional PC control interface
 
 The system is designed for small-scale production environments or labs where repeated and precise wire cutting is needed.
+
